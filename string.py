@@ -1,3 +1,5 @@
+# Strings are immutable.
+
 a= 'Hi, i Am "good" '
 print(a)
 
@@ -16,3 +18,4 @@ print(a[0:-3])  #print(a[0:len(a)-3])
 
 nm="harry"
 print(nm[-4:-2])
+print(nm[::-1])

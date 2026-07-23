@@ -12,3 +12,7 @@ The conversion of one digit type into other data type is known as type casting.
 Types:
     1. Implicit : In implicit python converts a smaller data type to a higher data type To prevent data loss
     2. Explicit
+
+
+# Strings:
+Strings are immutable.

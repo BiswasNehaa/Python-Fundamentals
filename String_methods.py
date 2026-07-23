@@ -34,3 +34,5 @@ print(a.find("rr"))
 print(a.index("rr"))
 
 print(a.isalnum())
+print(a.isalpha())
+print(a.islower())
