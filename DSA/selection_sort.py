@@ -1,3 +1,6 @@
+# TC= O(n)
+# SC= O(1)
+
 def selection_sort(nums):
     n=len(nums)
     for i in range(n):
@@ -10,3 +13,4 @@ def selection_sort(nums):
     
 nums=[4,6,2,8,1,6]
 selection_sort(nums)
+
